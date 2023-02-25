@@ -8,5 +8,5 @@ TECHBUNNY es un ecommerce de tecnología que cuenta con un catálogo de más de 
 # TARJETAS DE PRUEBA
 | Tarjeta     | Número                | Código de seguridad | Fecha de caducidad | Nombre |    DNI    |
 | ----------- | --------------------- | ------------------- | ------------------ | ------ | --------- |
-| Mastercard  | 5031 7557 3453 0604   | 123                 | 11/25              |  APRO  | 1234567   |
-| Visa        | 4509 9535 6623 3704   | 123                 | 11/25              |  APRO  | 1234567   |
+| Mastercard  | 5031 7557 3453 0604   |        123          |       11/25        |  APRO  | 1234567   |
+| Visa        | 4509 9535 6623 3704   |        123          |       11/25        |  APRO  | 1234567   |
