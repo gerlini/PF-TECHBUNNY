@@ -13,6 +13,6 @@
 # Landing Page
 ![Preview](client/public/landing.gif)
 # Home
-![Preview](client/public/home.gif)
+![Preview](client/public/Home.gif)
 # Searchbar
-![Preview](client/public/searchbar.gif)
+![Preview](client/public/Searchbar.gif)
