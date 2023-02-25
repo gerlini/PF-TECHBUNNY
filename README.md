@@ -16,5 +16,5 @@
 En esta página mostramos varias imágenes relacionadas con los productos que vendemos. Al presionar el botón de 'Ingresar', serás redirigido al inicio del sitio. Además, si presionas la flecha hacia abajo, podrás conocer al equipo que está detrás de TECHBUNNY.
 # Home
 ![Preview](client/public/Home.gif)
-# Searchbar
+# Searchbar dinamica
 ![Preview](client/public/Searchbar.gif)
