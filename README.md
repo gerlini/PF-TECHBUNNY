@@ -12,6 +12,7 @@
 | Visa        | 4509 9535 6623 3704   |        123          |       11/25        |  APRO  | 12345678  |
 # Landing Page
 ![Preview](client/public/landing.gif)
+
 En esta página mostramos varias imágenes relacionadas con los productos que vendemos. Al presionar el botón de 'Ingresar', serás redirigido al inicio del sitio. Además, si presionas la flecha hacia abajo, podrás conocer al equipo que está detrás de TECHBUNNY.
 # Home
 ![Preview](client/public/Home.gif)
