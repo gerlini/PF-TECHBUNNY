@@ -12,3 +12,7 @@
 | Visa        | 4509 9535 6623 3704   |        123          |       11/25        |  APRO  | 12345678  |
 # Landing Page
 ![Preview](client/public/landing.gif)
+# Home
+![Preview](client/public/home.gif)
+# Searchbar
+![Preview](client/public/searchbar.gif)
