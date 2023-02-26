@@ -23,9 +23,8 @@ Además, podrás encontrar las 6 categorías y las 6 marcas más populares del s
 
 # Login / Register
 ![Preview](client/public/login.png)
-Para registrarse esta la opcion clasica de rellenar el formulario , o tambien se puede hacer mediante google . 
-y para el login lo mismo , si tenes cuenta tradicional utilizas esa y sino con google.
-Al registrate de la manera tradicional te llega un mail para confirmar la cuenta .
+Para registrarte, tienes la opción clásica de rellenar el formulario, o también puedes hacerlo mediante Google. Y para el login, lo mismo: si tienes una cuenta tradicional, la utilizas; sino, puedes ingresar con Google. 
+Si te registras de la manera tradicional, recibirás un correo electrónico para confirmar tu cuenta.
 
 ![Preview](client/public/register.png)
 
