@@ -55,11 +55,17 @@ Al confirmar datos de la compra se abre un popup de mercado pago para realizar e
 
 ![Preview](client/public/compra2.gif)
 
+En la parte superior de este Read me se encuentran las tarjetas de prueba para realizar compras.
 
 ![Preview](client/public/compra3.gif)
 
 Una vez completada la compra en nuestro perfil podemos ver la orden completada y recibiremos un mail 
 # Informacion de orden en panel de usuario
 ![Preview](client/public/ordercomplete.png)
+
+En el panel de usuario ahora veras tu nueva orden y el status de la misma.
+
 # Mail con la informacion de compra 
 ![Preview](client/public/mailorden.png)
+
+Recibiras un mail a la direccion que especificaste antes de confirmar la compra . 
