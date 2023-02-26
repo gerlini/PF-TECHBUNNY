@@ -75,3 +75,11 @@ Recibiras un mail a la direccion que especificaste antes de confirmar la compra 
 
 Utilizamos Cloudinary para subir las 830 imágenes correspondientes a cada uno de los productos de la página. 
 Además, también se pueden subir nuevas imágenes si se agregan nuevos productos, las cuales se suben automáticamente a la misma cuenta de Cloudinary que ya se utiliza.
+
+![Preview](client/public/upload.gif)
+
+Se puede definir nuevo producto , definiendo nombre , precio , stock , categoria y marca , si la categoria o la marca no existe esta se crea. 
+
+![Preview](client/public/glorious.png)
+
+Y ahora el producto va a aparecer en la pagina como cualquier otro.
