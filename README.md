@@ -21,6 +21,14 @@ En esta página mostramos varias imágenes relacionadas con los productos que ve
 En la página de inicio encontrarás dos carruseles con diferentes productos, dependiendo de si el usuario ha iniciado sesión o no. Si no hay usuario logueado, los productos se mostrarán de manera aleatoria. 
 Además, podrás encontrar las 6 categorías y las 6 marcas más populares del sitio.
 
+# Login / Register
+![Preview](client/public/login.png)
+Para registrarse esta la opcion clasica de rellenar el formulario , o tambien se puede hacer mediante google . 
+y para el login lo mismo , si tenes cuenta tradicional utilizas esa y sino con google.
+Al registrate de la manera tradicional te llega un mail para confirmar la cuenta .
+
+![Preview](client/public/register.png)
+
 # Searchbar dinamica
 ![Preview](client/public/Searchbar.gif)
 
