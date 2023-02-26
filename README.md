@@ -98,4 +98,6 @@ Y ahora el producto va a aparecer en la pagina como cualquier otro.
 
 ![Preview](client/public/glorious.png)
 
+
+# [Link a deploy](https://pf-techbunny-lake.vercel.app/)
 # [Link a video  explicativo de la pagina](https://vimeo.com/795225619)
