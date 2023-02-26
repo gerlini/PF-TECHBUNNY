@@ -59,3 +59,7 @@ Al confirmar datos de la compra se abre un popup de mercado pago para realizar e
 ![Preview](client/public/compra3.gif)
 
 Una vez completada la compra en nuestro perfil podemos ver la orden completada y recibiremos un mail 
+# Informacion de orden en panel de usuario
+![Preview](client/public/ordercomplete.png)
+# Mail con la informacion de compra 
+![Preview](client/public/mailorden.png)
