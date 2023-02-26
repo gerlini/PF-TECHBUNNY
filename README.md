@@ -51,6 +51,8 @@ Además, si eres administrador, podrás acceder al panel de control, donde encon
 Cuando accedes a una categoría, como por ejemplo "notebooks", tendrás la opción de filtrar por marca y también ordenar por valor (ascendente o descendente), ambos funcionando simultáneamente.
 
 # Review de producto
+![Preview](client/public/review1.png)
+
 ![Preview](client/public/review.gif)
 
 En los productos, puedes dejar una reseña que se promedia con las existentes y así se le da un puntaje al producto en una escala de 1 a 5 estrellas.
