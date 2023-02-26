@@ -37,3 +37,6 @@ En la barra de navegación encontrarás un menú desplegable con todas las categ
 
 En el panel de usuario podrás visualizar las órdenes que has realizado y su estado. 
 Además, si eres administrador, podrás acceder al panel de control, donde encontrarás datos reales de miles de compras simuladas por nosotros.
+
+# Filtro por marca y Ordernamiento 
+![Preview](client/public/filtersandorders.gif)
