@@ -47,3 +47,10 @@ Cuando accedes a una categoría, como por ejemplo "notebooks", tendrás la opci�
 ![Preview](client/public/review.gif)
 
 En los productos, puedes dejar una reseña que se promedia con las existentes y así se le da un puntaje al producto en una escala de 1 a 5 estrellas.
+
+# Realizar una compra
+![Preview](client/public/compra1.gif)
+Al confirmar datos de la compra se abre un popup de mercado pago para realizar el pago
+![Preview](client/public/compra2.gif)
+![Preview](client/public/compra3.gif)
+Una vez completada la compra en nuestro perfil podemos ver la orden completada y recibiremos un mail 
