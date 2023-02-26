@@ -26,3 +26,6 @@ Además, podrás encontrar las 6 categorías y las 6 marcas más populares del s
 
 La barra de búsqueda es uno de los componentes que se incluyen en la barra de navegación.
 La misma se actualiza automáticamente a medida que escribes.
+
+# Modo oscuro , Favoritos , Carrito y Panel de usuario
+![Preview](client/public/navbar.gif)
