@@ -14,7 +14,15 @@
 ![Preview](client/public/landing.gif)
 
 En esta página mostramos varias imágenes relacionadas con los productos que vendemos. Al presionar el botón de 'Ingresar', serás redirigido al inicio del sitio. Además, si presionas la flecha hacia abajo, podrás conocer al equipo que está detrás de TECHBUNNY.
+
 # Home
 ![Preview](client/public/Home.gif)
+
+En la página de inicio encontrarás dos carruseles con diferentes productos, dependiendo de si el usuario ha iniciado sesión o no. Si no hay usuario logueado, los productos se mostrarán de manera aleatoria. 
+Además, podrás encontrar las 6 categorías y las 6 marcas más populares del sitio.
+
 # Searchbar dinamica
 ![Preview](client/public/Searchbar.gif)
+
+La barra de búsqueda es uno de los componentes que se incluyen en la barra de navegación.
+La misma se actualiza automáticamente a medida que escribes.
