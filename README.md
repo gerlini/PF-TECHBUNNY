@@ -69,3 +69,9 @@ En el panel de usuario ahora veras tu nueva orden y el status de la misma.
 ![Preview](client/public/mailorden.png)
 
 Recibiras un mail a la direccion que especificaste antes de confirmar la compra . 
+
+# Cloudinary
+![Preview](client/public/cloudinary.gif)
+
+Utilizamos Cloudinary para subir las 830 imágenes correspondientes a cada uno de los productos de la página. 
+Además, también se pueden subir nuevas imágenes si se agregan nuevos productos, las cuales se suben automáticamente a la misma cuenta de Cloudinary que ya se utiliza.
