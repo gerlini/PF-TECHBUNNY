@@ -90,3 +90,6 @@ Se puede definir nuevo producto , definiendo nombre , precio , stock , categoria
 ![Preview](client/public/glorious.png)
 
 Y ahora el producto va a aparecer en la pagina como cualquier otro.
+
+
+[Link a video  explicativo de la pagina](https://vimeo.com/795225619)
