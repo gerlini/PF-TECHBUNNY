@@ -40,3 +40,5 @@ Además, si eres administrador, podrás acceder al panel de control, donde encon
 
 # Filtro por marca y Ordernamiento 
 ![Preview](client/public/filtersandorders.gif)
+
+Cuando accedes a una categoría, como por ejemplo "notebooks", tendrás la opción de filtrar por marca y también ordenar por valor (ascendente o descendente), ambos funcionando simultáneamente.
