@@ -91,9 +91,11 @@ Además, también se pueden subir nuevas imágenes si se agregan nuevos producto
 
 Se puede definir nuevo producto , definiendo nombre , precio , stock , categoria y marca , si la categoria o la marca no existe esta se crea. 
 
-![Preview](client/public/glorious.png)
+![Preview](client/public/add.png)
+
 
 Y ahora el producto va a aparecer en la pagina como cualquier otro.
 
+![Preview](client/public/glorious.png)
 
 # [Link a video  explicativo de la pagina](https://vimeo.com/795225619)
