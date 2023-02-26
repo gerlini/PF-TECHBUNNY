@@ -31,3 +31,9 @@ La misma se actualiza automáticamente a medida que escribes.
 ![Preview](client/public/navbar.gif)
 
 En la barra de navegación encontrarás un menú desplegable con todas las categorías existentes, un botón para cambiar al modo oscuro/claro, un botón para acceder a favoritos, un botón para acceder al carrito de compras y un menú desplegable con el panel de usuario. Desde este último, podrás acceder a tu perfil y, si eres administrador, al panel de control.
+
+# Detalles del panel de usuario
+![Preview](client/public/panel.gif)
+
+En el panel de usuario podrás visualizar las órdenes que has realizado y su estado. 
+Además, si eres administrador, podrás acceder al panel de control, donde encontrarás datos reales de miles de compras simuladas por nosotros.
