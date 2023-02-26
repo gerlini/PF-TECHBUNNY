@@ -99,7 +99,7 @@ Y ahora el producto va a aparecer en la pagina como cualquier otro.
 ![Preview](client/public/glorious.png)
 
 # About
-[![Preview](client/public/ger.png)](https://www.linkedin.com/in/gerlini/)
+[![Preview](client/public/ge.png)](https://www.linkedin.com/in/gerlini/)
 
 # [Link a deploy](https://pf-techbunny-lake.vercel.app/)
 # [Link a video  explicativo de la pagina](https://vimeo.com/795225619)
