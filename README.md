@@ -29,3 +29,5 @@ La misma se actualiza automáticamente a medida que escribes.
 
 # Modo oscuro , Favoritos , Carrito y Panel de usuario
 ![Preview](client/public/navbar.gif)
+
+En la barra de navegación encontrarás un menú desplegable con todas las categorías existentes, un botón para cambiar al modo oscuro/claro, un botón para acceder a favoritos, un botón para acceder al carrito de compras y un menú desplegable con el panel de usuario. Desde este último, podrás acceder a tu perfil y, si eres administrador, al panel de control.
