@@ -100,7 +100,7 @@ Y ahora el producto va a aparecer en la pagina como cualquier otro.
 # Responsive
 ![Preview](client/public/responsive.png)
 
- La pagina web esta totalmente responsiva a formato movil !
+ La pagina web es totalmente responsiva a formato movil !
 
 # Me
 [![Preview](client/public/ger.png)](https://www.linkedin.com/in/gerlini/)
