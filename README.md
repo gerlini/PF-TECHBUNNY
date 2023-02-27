@@ -100,7 +100,8 @@ Y ahora el producto va a aparecer en la pagina como cualquier otro.
 # Responsive
 ![Preview](client/public/responsive.png)
 
- La pagina web es totalmente responsiva a formato movil !
+ Nuestra página web está diseñada para ser totalmente responsiva a formatos móviles. Esto significa que podrás disfrutar de una experiencia de navegación óptima desde cualquier dispositivo móvil, sin importar su tamaño o resolución de pantalla. 
+Todos los elementos de la página, incluyendo imágenes, texto y botones, están adaptados para garantizar una visualización clara y precisa en cualquier dispositivo.
 
 # Me
 [![Preview](client/public/ger.png)](https://www.linkedin.com/in/gerlini/)
