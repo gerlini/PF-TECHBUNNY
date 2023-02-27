@@ -30,17 +30,20 @@
 | Tarjeta     | Número                | Código de seguridad | Fecha de caducidad | Nombre |    DNI    |
 | ----------- | --------------------- | ------------------- | ------------------ | ------ | --------- |
 | Mastercard  | 5031 7557 3453 0604   |        123          |       11/25        |  APRO  | 12345678  |
-| Visa        | 4509 9535 6623 3704   |        123          |       11/25        |  APRO  | 12345678  |
+| Visa        | 4509 9535 6623 3704   |        123          |       11/25        |  APRO  | 12345678  |<br>
+[Volver al indice](#INDICE)
 # Landing Page
 ![Preview](client/public/landing.gif)
 
-En esta página mostramos varias imágenes relacionadas con los productos que vendemos. Al presionar el botón de 'Ingresar', serás redirigido al inicio del sitio. Además, si presionas la flecha hacia abajo, podrás conocer al equipo que está detrás de TECHBUNNY.
+En esta página mostramos varias imágenes relacionadas con los productos que vendemos. Al presionar el botón de 'Ingresar', serás redirigido al inicio del sitio. Además, si presionas la flecha hacia abajo, podrás conocer al equipo que está detrás de TECHBUNNY.<br>
+[Volver al indice](#INDICE)
 
 # Home
 ![Preview](client/public/Home.gif)
 
 En la página de inicio encontrarás dos carruseles con diferentes productos, dependiendo de si el usuario ha iniciado sesión o no. Si no hay usuario logueado, los productos se mostrarán de manera aleatoria. 
-Además, podrás encontrar las 6 categorías y las 6 marcas más populares del sitio.
+Además, podrás encontrar las 6 categorías y las 6 marcas más populares del sitio.<br>
+[Volver al indice](#INDICE)
 
 # Login / Register
 ![Preview](client/public/login.png)
@@ -48,30 +51,35 @@ Para registrarte, tienes la opción clásica de rellenar el formulario, o tambi�
 Si te registras de la manera tradicional, recibirás un correo electrónico para confirmar tu cuenta.
 
 ![Preview](client/public/register.png)
-
+<br>
+[Volver al indice](#INDICE)
 # Searchbar dinamica
 ![Preview](client/public/Searchbar.gif)
 
 La barra de búsqueda es uno de los componentes que se incluyen en la barra de navegación.
-La misma se actualiza automáticamente a medida que escribes.
+La misma se actualiza automáticamente a medida que escribes.<br>
+[Volver al indice](#INDICE)
 
 # Modo oscuro , Favoritos , Carrito y Panel de usuario
 ![Preview](client/public/buttons.png)
 
 ![Preview](client/public/navbar.gif)
 
-En la barra de navegación encontrarás un menú desplegable con todas las categorías existentes, un botón para cambiar al modo oscuro/claro, un botón para acceder a favoritos, un botón para acceder al carrito de compras y un menú desplegable con el panel de usuario. Desde este último, podrás acceder a tu perfil y, si eres administrador, al panel de control.
+En la barra de navegación encontrarás un menú desplegable con todas las categorías existentes, un botón para cambiar al modo oscuro/claro, un botón para acceder a favoritos, un botón para acceder al carrito de compras y un menú desplegable con el panel de usuario. Desde este último, podrás acceder a tu perfil y, si eres administrador, al panel de control.<br>
+[Volver al indice](#INDICE)
 
 # Detalles del panel de usuario
 ![Preview](client/public/panel.gif)
 
 En el panel de usuario podrás visualizar las órdenes que has realizado y su estado. 
-Además, si eres administrador, podrás acceder al panel de control, donde encontrarás datos reales de miles de compras simuladas por nosotros.
+Además, si eres administrador, podrás acceder al panel de control, donde encontrarás datos reales de miles de compras simuladas por nosotros.<br>
+[Volver al indice](#INDICE)
 
 # Filtro por marca y Ordernamiento 
 ![Preview](client/public/filtersandorders.gif)
 
-Cuando accedes a una categoría, como por ejemplo "notebooks", tendrás la opción de filtrar por marca y también ordenar por valor (ascendente o descendente), ambos funcionando simultáneamente.
+Cuando accedes a una categoría, como por ejemplo "notebooks", tendrás la opción de filtrar por marca y también ordenar por valor (ascendente o descendente), ambos funcionando simultáneamente.<br>
+[Volver al indice](#INDICE)
 
 # Review de producto
 ![Preview](client/public/review1.png)
@@ -91,16 +99,19 @@ En la parte superior de este Read me se encuentran las tarjetas de prueba para r
 
 ![Preview](client/public/compra3.gif)
 
-Una vez completada la compra en nuestro perfil podemos ver la orden completada y recibiremos un mail 
+Una vez completada la compra en nuestro perfil podemos ver la orden completada y recibiremos un mail <br>
+[Volver al indice](#INDICE)
 # Informacion de orden en panel de usuario
 ![Preview](client/public/ordercomplete.png)
 
-En el panel de usuario ahora veras tu nueva orden y el status de la misma.
+En el panel de usuario ahora veras tu nueva orden y el status de la misma.<br>
+[Volver al indice](#INDICE)
 
 # Mail con la informacion de compra 
 ![Preview](client/public/mailorden.png)
 
-Recibiras un mail a la direccion que especificaste antes de confirmar la compra . 
+Recibiras un mail a la direccion que especificaste antes de confirmar la compra . <br>
+[Volver al indice](#INDICE)
 
 # Cloudinary
 ![Preview](client/public/assets.png)
@@ -117,15 +128,19 @@ Se puede definir nuevo producto , definiendo nombre , precio , stock , categoria
 
 Y ahora el producto va a aparecer en la pagina como cualquier otro.
 
-![Preview](client/public/glorious.png)
+![Preview](client/public/glorious.png)<br>
+[Volver al indice](#INDICE)
 # Responsive
 ![Preview](client/public/responsive.png)
 
  Nuestra página web está diseñada para ser totalmente responsiva a formatos móviles. Esto significa que podrás disfrutar de una experiencia de navegación óptima desde cualquier dispositivo móvil, sin importar su tamaño o resolución de pantalla. 
-Todos los elementos de la página, incluyendo imágenes, texto y botones, están adaptados para garantizar una visualización clara y precisa en cualquier dispositivo.
+Todos los elementos de la página, incluyendo imágenes, texto y botones, están adaptados para garantizar una visualización clara y precisa en cualquier dispositivo.<br>
+[Volver al indice](#INDICE)
 
 # Linkedin
-[![Preview](client/public/ger.png)](https://www.linkedin.com/in/gerlini/)
+[![Preview](client/public/ger.png)](https://www.linkedin.com/in/gerlini/)<br>
+[Volver al indice](#INDICE)
 
 # [Link a deploy](https://pf-techbunny-lake.vercel.app/)
-# [Link a video  explicativo de la pagina](https://vimeo.com/795225619)
+# [Link a video  explicativo de la pagina](https://vimeo.com/795225619)<br>
+[Volver al indice](#INDICE)
