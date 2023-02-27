@@ -3,23 +3,24 @@
 
 [![Preview](client/public/intro.gif)](https://vimeo.com/795225619)
 
-1.[Acerca de](#Acerca-de) <br>
-2.[Tajetas de prueba](#TARJETAS-DE-PRUEBA) <br>
-3.[Landing Page](#Landing-Page) <br>
-4.[Home](#Home) <br>
-5.[Login / Register](#Login-/-Register) <br>
-6.[Searchbar dinamica](#Searchbar-dinamica) <br>
-8.[Modo oscuro , Favoritos , Carrito y Panel de usuario](#Modo-oscuro-,-Favoritos-,-Carrito-y-Panel-de-usuario) <br>
-9.[Filtro por marca y Ordernamiento](#Filtro-por-marca-y-Ordernamiento) <br>
-10.[Review de producto](#Review-de-producto) <br>
-11.[Realizar una compra](#Realizar-una-compra) <br>
-12.[Informacion de orden en panel de usuario](#Informacion-de-orden-en-panel-de-usuario) <br>
-13.[Mail con la informacion de compra](#Mail-con-la-informacion-de-compra) <br>
-14.[Cloudinary](#Cloudinary) <br>
-15.[Responsive](#Responsive) <br>
-16.[Linkedin](#Linkedin) <br>
-17.[Link a deploy](https://pf-techbunny-lake.vercel.app/) <br>
-18.[Link a video explicativo de la pagina](https://vimeo.com/795225619) <br>
+# INDICE
+-[Acerca de](#Acerca-de) <br>
+-[Tajetas de prueba](#TARJETAS-DE-PRUEBA) <br>
+-[Landing Page](#Landing-Page) <br>
+-[Home](#Home) <br>
+-[Login / Register](#Login-/-Register) <br>
+-[Searchbar dinamica](#Searchbar-dinamica) <br>
+-[Modo oscuro , Favoritos , Carrito y Panel de usuario](#Modo-oscuro-,-Favoritos-,-Carrito-y-Panel-de-usuario) <br>
+-[Filtro por marca y Ordernamiento](#Filtro-por-marca-y-Ordernamiento) <br>
+-[Review de producto](#Review-de-producto) <br>
+-[Realizar una compra](#Realizar-una-compra) <br>
+-[Informacion de orden en panel de usuario](#Informacion-de-orden-en-panel-de-usuario) <br>
+-[Mail con la informacion de compra](#Mail-con-la-informacion-de-compra) <br>
+-[Cloudinary](#Cloudinary) <br>
+-[Responsive](#Responsive) <br>
+-[Linkedin](#Linkedin) <br>
+-[Link a deploy](https://pf-techbunny-lake.vercel.app/) <br>
+-[Link a video explicativo de la pagina](https://vimeo.com/795225619) <br>
 
 # Acerca de
 [TECHBUNNY](https://pf-techbunny-lake.vercel.app/) es un ecommerce de tecnología que cuenta con un catálogo de más de 800 productos. Además, ofrecemos la posibilidad de crear una cuenta y acceder a nuestras herramientas, una pasarela de pago integrada y un panel de control con estadísticas en tiempo real para que los administradores puedan gestionar todo lo necesario.
