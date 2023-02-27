@@ -10,7 +10,7 @@
 -[Home](#Home) <br>
 -[Login / Register](#Login-/-Register) <br>
 -[Searchbar dinamica](#Searchbar-dinamica) <br>
--[Modo oscuro , Favoritos , Carrito y Panel de usuario](#Modo-oscuro-,-Favoritos-,-Carrito-y-Panel-de-usuario) <br>
+-[Modo oscuro , Favoritos , Carrito y Panel de usuario](#modo-oscuro--favoritos--carrito-y-panel-de-usuario) <br>
 -[Filtro por marca y Ordernamiento](#Filtro-por-marca-y-Ordernamiento) <br>
 -[Review de producto](#Review-de-producto) <br>
 -[Realizar una compra](#Realizar-una-compra) <br>
