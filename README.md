@@ -33,6 +33,7 @@
 | Visa        | 4509 9535 6623 3704   |        123          |       11/25        |  APRO  | 12345678  |
 <br>
 [Volver al indice](#INDICE)
+
 # Landing Page
 ![Preview](client/public/landing.gif)
 
