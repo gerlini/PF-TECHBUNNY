@@ -3,7 +3,8 @@
 
 [![Preview](client/public/intro.gif)](https://vimeo.com/795225619)
 
-1..[Acerca de](#Acerca de)
+1.. [Acerca de](#Acerca de)
+
 2..[Tajetas de prueba](#TARJETAS DE PRUEBA)
 3..[Landing Page](#Landing Page)
 4..[Home](#Home)
