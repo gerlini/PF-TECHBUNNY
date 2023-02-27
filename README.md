@@ -1,14 +1,26 @@
-<style>
-  li {
-    color: red;
-  }
-</style>
 
 # [TECHBUNNY](https://pf-techbunny-lake.vercel.app/)
 
 [![Preview](client/public/intro.gif)](https://vimeo.com/795225619)
 
-*[RESPONSIVE](#Responsive)
+1..[Acerca de](#Acerca de)
+2..[Tajetas de prueba](#TARJETAS DE PRUEBA)
+3..[Landing Page](#Landing Page)
+4..[Home](#Home)
+5..[Login / Register](#Login / Register)
+6..[Searchbar dinamica](#Searchbar dinamica)
+8..[Modo oscuro , Favoritos , Carrito y Panel de usuario](#Modo oscuro , Favoritos , Carrito y Panel de usuario)
+9..[Filtro por marca y Ordernamiento](#Filtro por marca y Ordernamiento)
+10..[Review de producto](#Review de producto)
+11..[Realizar una compra](#Realizar una compra)
+12..[Informacion de orden en panel de usuario](#Informacion de orden en panel de usuario)
+13..[Mail con la informacion de compra](#Mail con la informacion de compra)
+14..[Cloudinary](#Cloudinary)
+15..[Responsive](#Responsive)
+16..[Linkedin](#Linkedin)
+17..[Link a deploy](https://pf-techbunny-lake.vercel.app/)
+18..[Link a video explicativo de la pagina](https://vimeo.com/795225619)
+
 # Acerca de
 [TECHBUNNY](https://pf-techbunny-lake.vercel.app/) es un ecommerce de tecnología que cuenta con un catálogo de más de 800 productos. Además, ofrecemos la posibilidad de crear una cuenta y acceder a nuestras herramientas, una pasarela de pago integrada y un panel de control con estadísticas en tiempo real para que los administradores puedan gestionar todo lo necesario.
 
