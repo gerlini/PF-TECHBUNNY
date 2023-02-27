@@ -24,6 +24,7 @@
 
 # Acerca de
 [TECHBUNNY](https://pf-techbunny-lake.vercel.app/) es un ecommerce de tecnología que cuenta con un catálogo de más de 800 productos. Además, ofrecemos la posibilidad de crear una cuenta y acceder a nuestras herramientas, una pasarela de pago integrada y un panel de control con estadísticas en tiempo real para que los administradores puedan gestionar todo lo necesario.<br>
+
 [Volver al indice](#INDICE)
 
 # TARJETAS DE PRUEBA
