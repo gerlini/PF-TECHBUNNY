@@ -143,4 +143,4 @@ Todos los elementos de la página, incluyendo imágenes, texto y botones, están
 
 # [Link a deploy](https://pf-techbunny-lake.vercel.app/)
 # [Link a video  explicativo de la pagina](https://vimeo.com/795225619)<br>
-[Volver al indice](#INDICE)
+
