@@ -8,7 +8,7 @@
 -[Tajetas de prueba](#TARJETAS-DE-PRUEBA) <br>
 -[Landing Page](#Landing-Page) <br>
 -[Home](#Home) <br>
--[Login / Register](#Login---Register) <br>
+-[Login / Register](#Login-/-Register) <br>
 -[Searchbar dinamica](#Searchbar-dinamica) <br>
 -[Modo oscuro , Favoritos , Carrito y Panel de usuario](#Modo-oscuro-,-Favoritos-,-Carrito-y-Panel-de-usuario) <br>
 -[Filtro por marca y Ordernamiento](#Filtro-por-marca-y-Ordernamiento) <br>
