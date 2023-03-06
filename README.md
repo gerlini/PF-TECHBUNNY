@@ -2,10 +2,6 @@
 
 [![Preview](client/public/intro.gif)](https://vimeo.com/795225619)
 
-
-
-
-
 # INDICE
 -[Acerca de](#Acerca-de) <br>
 -[Tajetas de prueba](#TARJETAS-DE-PRUEBA) <br>
